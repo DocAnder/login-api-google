@@ -26,7 +26,7 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/DocAnder/login-api-google.git
 
 
 2. Abra a pasta e instale as dependências:
