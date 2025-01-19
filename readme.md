@@ -33,7 +33,7 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas:
     ```bash
     npm install
 
-3. Crie um arquivo .env na raiz do projeto e insira suas credenciais do Google.
+3. Atualize o arquivo .env na raiz do projeto e insira suas credenciais do Google.
     ```bash
     GOOGLE_CLIENT_ID=SEU_CLIENT_ID
     GOOGLE_CLIENT_SECRET=SUA_CLIENT_SECRET
